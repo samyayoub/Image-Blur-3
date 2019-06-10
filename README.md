@@ -1,0 +1,1 @@
+Building on the challenge - Image-Blur-1 and Image-Blur-2 - and building a data transformation on a data representation of an image. This will continue to work with object-oriented programming and multidimensional arrays.
